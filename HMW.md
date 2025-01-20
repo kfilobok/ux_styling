@@ -3,7 +3,10 @@
 $\color{#9d3dff}\fbox{{\textsf{Text Box with Color}}}$
 
 
- $\color{#1E5945}{\textsf{ text }}$
+$\color{#7B001C}{\textsf{ text }}$
+$\color{#1E5945}{\textsf{ text }}$
+$\color{ #6495ED}{\textsf{ text }}$
+
 
 
 
